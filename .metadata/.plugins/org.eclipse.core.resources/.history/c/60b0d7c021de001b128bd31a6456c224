@@ -1,0 +1,8 @@
+package view;
+
+import service.PhieuThuChiService;
+
+public class SuaPhieuThuChiView extends javax.swing.JFrame {
+	PhieuThuChiService phieuThuChiService =new PhieuThuChiService();
+
+}

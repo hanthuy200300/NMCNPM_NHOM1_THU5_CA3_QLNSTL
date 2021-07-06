@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;18130238_HanKimThuy_BTTH/src/weightgraph&apos;&#x0D;&#x0A;- Original project: &apos;LTDT&apos;&#x0D;&#x0A;- Destination element: &apos;18130238_HanKimThuy_BTTH/src/weightgraph&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     graphTh.Edge.java&#x0D;&#x0A;     graphTh.Test.java&#x0D;&#x0A;     graphTh.WeightGraph.java" description="Copy compilation units" destination="=18130238_HanKimThuy_BTTH/src&lt;weightgraph" element1="/src&lt;graphTh{Edge.java" element2="/src&lt;graphTh{Test.java" element3="/src&lt;graphTh{WeightGraph.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1597371760671" units="3" version="1.0"/>
+</session>

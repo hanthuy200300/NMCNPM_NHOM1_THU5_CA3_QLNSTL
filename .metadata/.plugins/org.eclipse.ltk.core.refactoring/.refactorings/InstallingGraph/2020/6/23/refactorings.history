@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;InstallDT.SettingGraph&apos; to &apos;UndirectedGraph&apos;&#x0D;&#x0A;- Original project: &apos;InstallDT&apos;&#x0D;&#x0A;- Original element: &apos;InstallDT.SettingGraph&apos;&#x0D;&#x0A;- Renamed element: &apos;InstallDT.UndirectedGraph&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SettingGraph&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;InstallDT{SettingGraph.java[SettingGraph" matchStrategy="1" name="UndirectedGraph" qualified="false" references="true" similarDeclarations="false" stamp="1591252893242" textual="false" version="1.0"/>
+</session>
