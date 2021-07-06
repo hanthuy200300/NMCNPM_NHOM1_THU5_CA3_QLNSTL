@@ -1,0 +1,26 @@
+package service;
+
+import java.util.List;
+
+import DAO.PhieuThuChiDAO;
+import Model.NhanVien;
+import Model.PhieuThuChi;
+
+public class PhieuThuChiService {
+	PhieuThuChiDAO phieuThuChiDAO = new PhieuThuChiDAO();
+	public List<PhieuThuChi> findAll(){
+		return phieuThuChiDAO.findAll();
+	}
+	public boolean add(PhieuThuChi p){
+		return phieuThuChiDAO.add(p);
+	}
+	public PhieuThuChi findByMaPhieu(String maPhieu){
+		return phieuThuChiDAO.findByMaPhieu(maPhieu);
+	}
+	public boolean delete(PhieuThuChi p){
+		return phieuThuChiDAO.delete(p);
+	}
+	public boolean update(PhieuThuChi p) {
+		return phieuThuChiDAO.update(p);
+	}
+}
